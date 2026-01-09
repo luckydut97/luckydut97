@@ -6,7 +6,7 @@ I focus on designing clean architectures, improving real-world workflows, and co
 ---
 
 ### 🛠️ Tech Stack
-#### 📱 Mobile (Main)
+#### Mobile (Main)
 
 - Android: Kotlin, Jetpack Compose, XML
 - Architecture: Clean Architecture, Multi-Module
@@ -16,7 +16,7 @@ I focus on designing clean architectures, improving real-world workflows, and co
 - Cross-platform: Flutter
 - Hardware / Industrial: PDA SDK integration
 
-#### 🌐 Backend (Sub)
+#### Backend (Sub)
 
 - Server: Node.js, Spring Boot
 - API: REST API
@@ -26,7 +26,7 @@ I focus on designing clean architectures, improving real-world workflows, and co
 - Container: Docker
 - OS: Linux
 
-#### 🧪 DevOps & Collaboration
+#### DevOps & Collaboration
 
 - CI/CD: GitHub Actions, GitLab CI/CD
 - VCS: Git, GitHub, GitLab
